@@ -49,7 +49,8 @@
 
 📧 **Email:** franczakpawel@outlook.com  
 🔗 **LinkedIn:** [linkedin.com/in/franczak-pawel](https://www.linkedin.com/in/franczak-pawel/)  
-🎯 **LeetCode:** [leetcode.com/u/Fran_03/](https://leetcode.com/u/Fran_03/)  
 
-⚡ **Fun fact:** Handball player since primary school 🏆  
+
+⚡ **Fun fact:**  - Handball player since primary school 🏆  
+ - [leetcode.com/u/Fran_03/](https://leetcode.com/u/Fran_03/) 🎯 
 
